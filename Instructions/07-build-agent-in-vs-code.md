@@ -68,7 +68,7 @@ You'll need a deployed model to use with your agent.
 
 1. In the Model Catalog, locate the **gpt-4o** model (you can use the search bar to find it quickly).
 
-    ![Screenshot of the Model Catalog in the Azure AI Foundry VS Code extension.](media/vs-code-model.png)
+    ![Screenshot of the Model Catalog in the Azure AI Foundry VS Code extension.](Media/vs-code-model.png)
 
 1. Select **Deploy in Azure** next to the gpt-4o model.
 
@@ -92,7 +92,7 @@ Now you'll create an AI agent using the visual designer interface.
 
 1. Select the **+** (plus) icon next to the **Agents** subsection to create a new AI Agent.
 
-    ![Screenshot of an creating an agent in the Azure AI Foundry VS Code extension.](media/vs-code-new-agent.png)
+    ![Screenshot of an creating an agent in the Azure AI Foundry VS Code extension.](Media/vs-code-new-agent.png)
 
 1. Choose a location to save your agent files when prompted.
 
@@ -117,7 +117,7 @@ You'll now add a Model Context Protocol (MCP) server tool that allows your agent
 
 1. In the **TOOL** section of the designer, select the **Add tool** button in the top-right corner.
 
-![Screenshot of adding a tool to an agent in the Azure AI Foundry VS Code extension.](media/vs-code-agent-tools.png)
+![Screenshot of adding a tool to an agent in the Azure AI Foundry VS Code extension.](Media/vs-code-agent-tools.png)
 
 1. From the dropdown menu, choose **MCP Server**.
 
